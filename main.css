@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(43, 43, 42, 0.911);
+  }
+  
+  h1 {
+    background-color: rgb(251, 252, 251);
+  }
+  p{
+    color:rgb(232, 204, 204)
+  }
+  #id1{
+    background-color: rgb(143, 145, 147);
+    font-family: 'Courier New', Courier, monospace;
+  }
